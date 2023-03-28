@@ -1,0 +1,14 @@
+name: hw1-shiny
+title: hw1-shiny
+username:
+account: mahrukh-k
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7588551
+bundleId: 6500240
+url: https://mahrukh-k.shinyapps.io/hw1-shiny/
+when: 1668115519.65875
+lastSyncTime: 1668115519.65875
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_0.R|apptest.R|apptest2.R|pollution_data.csv|pollution_data.RData|pollution_us_2000_2016.csv
