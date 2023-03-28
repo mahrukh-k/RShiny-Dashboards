@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE metadata SYSTEM "https://www.fgdc.gov/schemas/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin>U.S. Geological Survey, National Geospatial Technical Operations
+					Center</origin>
+                <pubdate>20221115</pubdate>
+                <title>USGS National Structures Dataset (NSD) Pennsylvania (published 20221115) GeoPackage</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace>Reston, VA</pubplace>
+                    <publish>U.S. Geological Survey</publish>
+                </pubinfo>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Geospatial data includes structures and other selected map
+				features.</abstract>
+            <purpose>It is a general purpose dataset for users who are not GIS experts. The
+				geospatial data are from selected National Map data holdings and other government
+				sources.</purpose>
+            <supplinf>Features of this dataset are various private and public man-made structures
+				and installations.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20221115</begdate>
+                    <enddate>20221115</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>Irregular</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-80.51985</westbc>
+                <eastbc>-74.68956</eastbc>
+                <northbc>42.51607</northbc>
+                <southbc>39.71980</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>structure</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Post Office</themekey>
+                <themekey>Courthouse</themekey>
+                <themekey>Town Hall</themekey>
+                <themekey>Fire Station/ EMS Station</themekey>
+                <themekey>Hospital/Medical Center</themekey>
+                <themekey>Law Enforcement</themekey>
+                <themekey>Prison/ Correctional Facility</themekey>
+                <themekey>School</themekey>
+                <themekey>College / University</themekey>
+                <themekey>School:Elementary</themekey>
+                <themekey>School:High School</themekey>
+                <themekey>School:Middle School</themekey>
+                <themekey>Technical School</themekey>
+                <themekey>Trade School</themekey>
+                <themekey>State Capitol</themekey>
+                <themekey>Campground</themekey>
+                <themekey>Trailhead</themekey>
+                <themekey>Visitor Center</themekey>
+                <themekey>Information Center</themekey>
+                <themekey>National Structures Dataset (NSD)</themekey>
+                <themekey>State</themekey>
+                <themekey>Open Geospatial Consortium GeoPackage 1.2</themekey>
+            </theme>
+            <place>
+                <placekt>Geographic Names Information System</placekt>
+                <placekey>United States</placekey>
+                <placekey>US</placekey>
+                <placekey>PA</placekey>
+                <placekey>Pennsylvania</placekey>
+                <placekey>Somerset</placekey>
+                <placekey>Bedford</placekey>
+                <placekey>Montgomery</placekey>
+                <placekey>Westmoreland</placekey>
+                <placekey>Potter</placekey>
+                <placekey>Elk</placekey>
+                <placekey>Mifflin</placekey>
+                <placekey>Indiana</placekey>
+                <placekey>Washington</placekey>
+                <placekey>Pike</placekey>
+                <placekey>Wyoming</placekey>
+                <placekey>Schuylkill</placekey>
+                <placekey>Fulton</placekey>
+                <placekey>Armstrong</placekey>
+                <placekey>Perry</placekey>
+                <placekey>Lebanon</placekey>
+                <placekey>Lawrence</placekey>
+                <placekey>Juniata</placekey>
+                <placekey>Adams</placekey>
+                <placekey>Northampton</placekey>
+                <placekey>Columbia</placekey>
+                <placekey>Butler</placekey>
+                <placekey>Tioga</placekey>
+                <placekey>Mercer</placekey>
+                <placekey>Lehigh</placekey>
+                <placekey>Clearfield</placekey>
+                <placekey>Forest</placekey>
+                <placekey>Cambria</placekey>
+                <placekey>Franklin</placekey>
+                <placekey>Clinton</placekey>
+                <placekey>Jefferson</placekey>
+                <placekey>Crawford</placekey>
+                <placekey>Susquehanna</placekey>
+                <placekey>Delaware</placekey>
+                <placekey>Wayne</placekey>
+                <placekey>Montour</placekey>
+                <placekey>Bucks</placekey>
+                <placekey>Luzerne</placekey>
+                <placekey>Greene</placekey>
+                <placekey>Erie</placekey>
+                <placekey>Cumberland</placekey>
+                <placekey>Union</placekey>
+                <placekey>Beaver</placekey>
+                <placekey>Monroe</placekey>
+                <placekey>Lackawanna</placekey>
+                <placekey>Sullivan</placekey>
+                <placekey>Lycoming</placekey>
+                <placekey>Philadelphia</placekey>
+                <placekey>Fayette</placekey>
+                <placekey>Clarion</placekey>
+                <placekey>Carbon</placekey>
+                <placekey>Cameron</placekey>
+                <placekey>Centre</placekey>
+                <placekey>Northumberland</placekey>
+                <placekey>Snyder</placekey>
+                <placekey>Venango</placekey>
+                <placekey>McKean</placekey>
+                <placekey>Dauphin</placekey>
+                <placekey>Chester</placekey>
+                <placekey>Berks</placekey>
+                <placekey>Warren</placekey>
+                <placekey>Huntingdon</placekey>
+                <placekey>Bradford</placekey>
+                <placekey>Blair</placekey>
+                <placekey>York</placekey>
+                <placekey>Lancaster</placekey>
+                <placekey>Allegheny</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None. However, users should be aware that temporal changes may have occurred since
+			this data set was collected and that some parts of this data may no longer represent
+			actual surface conditions. Users should not use this data for critical applications
+			without a full awareness of its limitations. Acknowledgment of the U.S. Geological
+			Survey would be appreciated for products derived from these data.</useconst>
+        <browse>
+            <browsen>https://prd-tnm.s3.amazonaws.com/StagedProducts/Struct/GPKG/STRUCT_Pennsylvania_State_GPKG.jpg</browsen>
+            <browsed>Thumbnail JPG image</browsed>
+            <browset>JPEG</browset>
+        </browse>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Content is derived from USGS national geospatial databases. The data is owned
+				and hosted by the USGS, but does not preclude using data sources owned and hosted by
+				other organizations, provided that these sources have been approved by the USGS data
+				program.</attraccr>
+        </attracc>
+        <logic>This data is compiled and updated by the USGS according to USGS standards.</logic>
+        <complete>Each layer is extracted from the USGS national geospatial databases.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>This USGS product is compiled to meet National Map Accuracy Standards
+					(NMAS). NMAS horizontal accuracy requires that at least 90 percent of
+					well-defined points tested are within 0.02 inch of the true position.</horizpar>
+            </horizpa>
+            <vertacc>
+                <vertaccr>Vertical accuracy is not applicable to this dataset.</vertaccr>
+            </vertacc>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>State and Federal Partners, updates from The National Map Corp
+							volunteers</origin>
+                        <pubdate>20200301</pubdate>
+                        <title>Post Offices</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>Locations designated as a Post Office by the U.S. Postal Service
+							(USPS). The dataset includes those locations which are operated by USPS
+							personnel and offer retail counter services. A Contract Postal Unit
+							(CPU) is generally excluded except for Community Post Office (CPO). Some
+							Remotely Managed Post Office and Village Post Office locations may be
+							included. This dataset may not be complete and is subject to change at
+							any time.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2013</begdate>
+                            <enddate>2020</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Post Offices</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>U.S. Geological Survey</origin>
+                        <pubdate>20190501</pubdate>
+                        <title>Courthouse Buildings</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>This dataset contains point features representing some types of
+							courthouse buildings in the U.S., Puerto Rico, and the U.S. Virgin
+							Islands. This includes county courthouses, state supreme courthouses,
+							and the Supreme Court of the United States. The purpose is to document
+							the spatial location and physical address of courthouse buildings for
+							general cartographic representation purposes on USGS mapping products at
+							1:24,000 scale. This dataset does not contain appellate courts, federal
+							courts, tribal courts, municipal, village, or town courts, specialty
+							courts (e.g., family, probate, juvenile, or bankruptcy courts), or
+							historic courthouse buildings which no longer function as an active
+							court. The information in this dataset was collected between 2017 and
+							2018 by volunteers through the USGS The National Map Corps (TNMCorps)
+							crowdsourcing project. Although these data and associated metadata have
+							been reviewed for accuracy and completeness, no warranty expressed or
+							implied is made regarding the display or utility of the data on any
+							other system or for general or scientific purposes, nor shall the act of
+							distribution constitute any such warranty. Supplemental information: The
+							County level court buildings handle the bulk of county-level court
+							functions, usually located in the city designated as a county seat. The
+							state supreme courthouse data represents the court buildings, usually
+							located in the city designated as the state capital, which house the
+							ultimate judicial tribunal in a state's court system. The Supreme Court
+							of the United States is represented by a single data point. County level
+							courts are referred to differently in different states. The data points
+							for county courthouses may also contain superior, circuit, and district
+							courts where the &quot;County&quot; court designation does not apply within an
+							individual state court system.</othercit>
+                        <onlink>https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2017</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Courthouse</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>U.S. Geological Survey</origin>
+                        <pubdate>20200328</pubdate>
+                        <title>City and Town Hall Buildings</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>This dataset contains points representing city hall and town hall
+							government buildings in the U.S., Puerto Rico, and the U.S. Virgin
+							Islands. This includes a building or building complex that serves as a
+							primary location for a local or municipal government’s administrative
+							functions. These buildings are generally called City Hall, Town Hall,
+							Village Hall, Municipal Building, Municipal Center, City Building or
+							similar designation. The purpose of this dataset is to document the
+							spatial location of such buildings for general cartographic
+							representation purposes on USGS mapping products at 1:24,000 scale.
+							Supplemental information: Excluded are county, state, or federal level
+							administration buildings or historical buildings that are no longer used
+							for government administration. This dataset is dynamic and not complete
+							at this time. Additions and updates are provided by volunteers through
+							the USGS' The National Map Corps (TNMCorps) crowdsourcing project.
+							Although these data and associated metadata have been reviewed for
+							accuracy and completeness, no warranty expressed or implied is made
+							regarding the display or utility of the data on any other system or for
+							general or scientific purposes, nor shall the act of distribution
+							constitute any such warranty.</othercit>
+                        <onlink>https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2011</begdate>
+                            <enddate>2020</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - City/Town Hall</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>Federal land management agencies</origin>
+                        <pubdate>2018</pubdate>
+                        <title>Points of Interest</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>Includes campgrounds, trailheads, visitor centers, picnic areas,
+							Ranger stations and federal land management agency headquarters. Point
+							data was provided by various federal agencies, such as NPS, US Forest
+							Service, BLM, US FWS. This data is subject to change at any
+							time.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2016</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - various</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>State and Federal Partners, updates from The National Map Corp
+							volunteers</origin>
+                        <pubdate>20203001</pubdate>
+                        <title>Fire Stations</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>This dataset contains points representing building locations of
+							fire stations in the United States, District of Columbia, Puerto Rico
+							and the U.S. Virgin Islands. Included are manned fire stations and
+							buildings from which a fire response occurs, such as a volunteer fire
+							department building to which fire fighters report for duty, but which is
+							not continuously manned. Some locations are approximate. Locations
+							solely for storing or maintaining fire equipment, or fire stations
+							without a permanent location, or locations with only administrative
+							functions are generally excluded. This data set may not be complete and
+							is subject to change at any time.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2007</begdate>
+                            <enddate>2020</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Fire Stations</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin> State and Federal Partners, updates from USGS' The National Map
+							Corps volunteers</origin>
+                        <pubdate>20150203</pubdate>
+                        <title>Law Enforcement</title>
+                        <geoform>Vector digital data</geoform>
+                        <othercit>Included are locations where sworn officers of a law enforcement
+							agency are regularly based or stationed. This dataset includes local
+							police, county sheriff's offices, state police or highway patrol
+							locations. Most federal law enforcement agency locations are not
+							included.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2005</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Law Enforcement</srccitea>
+                <srccontr> Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin> State and Federal Partners, updates from USGS' The National Map
+							Corps volunteers</origin>
+                        <pubdate>20150203</pubdate>
+                        <title>Prisons/Correctional Facility</title>
+                        <geoform>Vector digital data</geoform>
+                        <othercit>Includes both private and government medium and high security
+							prisons and correctional institutions. Low and minimum security
+							institutions such as local jails, prison camps, correctional farms or
+							work farms, detention and treatment centers are generally
+							excluded.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2007</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Prisons/Correctional Facility</srccitea>
+                <srccontr> Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>State and Federal Partners, updates from USGS' The National Map
+							Corps volunteers </origin>
+                        <pubdate>20080101</pubdate>
+                        <title>Schools</title>
+                        <geoform>Vector digital data</geoform>
+                        <othercit>The schools within this dataset are composed of Public elementary
+							and secondary education in the US as defined and tracked by the National
+							Center for Education Statistics (NCES), Common Core Dataset (CCD).
+							Private schools in this dataset are composed of Private elementary and
+							secondary education in the US as defined by the Private School Survey,
+							NCES. The colleges and Universities are composed of postsecondary
+							education facilities as defined by the Integrated Post Secondary
+							Education System (IPEDS), NCES. Included are Doctoral and Research
+							Universities, Masters Colleges and Universities, Baccalaureate Colleges,
+							Associates Colleges, Theological seminaries, Medical schools and other
+							health care professions, schools of engineering and technology, business
+							and management, art, music, design, Law schools, Teachers colleges,
+							Tribal colleges and other specialized institutions. Changes to base
+							school data may occur through the USGS’ The National Map Corps Volunteer
+							Geographic Information project.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2008</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Schools</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>State and Federal Partners, updates from USGS' The National Map
+							Corps volunteers </origin>
+                        <pubdate>20110101</pubdate>
+                        <title>Hospitals</title>
+                        <geoform>Vector digital data</geoform>
+                        <othercit>Includes general medical and surgical hospitals, psychiatric,
+							substance abuse and specialty hospitals such as Children's hospitals,
+							cancer, maternity and rehabilitation hospitals. Other types of hospitals
+							are included if represented in data sets provided by various partners
+							for this compilation. Hospitals operated by the US Department of
+							Veterans Affairs are included. Nursing homes, long term care facilities
+							and Urgent Care facilities are generally excluded. Locations that are
+							administrative offices only are excluded from the dataset.</othercit>
+                        <onlink>http://nationalmap.usgs.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2006</begdate>
+                            <enddate>2018</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - Hospitals</srccitea>
+                <srccontr>Geographic features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin>State government websites</origin>
+                        <pubdate>20150203</pubdate>
+                        <title>State Capitol building</title>
+                        <geoform>vector digital data</geoform>
+                        <othercit>Includes the official State Capitol buildings for the U.S. states
+							and territories.</othercit>
+                        <onlink>http://nationalmap.gov</onlink>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>digital data</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>2014</begdate>
+                            <enddate>2014</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>Structures - State Capitol building</srccitea>
+                <srccontr>Geographic feature and feature name</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>The data for this product are created as follows. All geospatial content
+					is taken from national geospatial databases under the stewardship of USGS data
+					programs. The vector data are processed using ESRI ArcGIS software and exported.
+					Map formatting is performed using a custom application, which includes
+					post-processing to embed the metadata XML document.</procdesc>
+                <procdate>20121105</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>69</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <spref>
+        <horizsys>
+            <geograph>
+                <latres>0.00001</latres>
+                <longres>0.00001</longres>
+                <geogunit>Decimal degrees</geogunit>
+            </geograph>
+            <geodetic>
+                <horizdn>North American Datum of 1983</horizdn>
+                <ellips>Geodetic Reference System 80</ellips>
+                <semiaxis>6378137</semiaxis>
+                <denflat>298.2572221</denflat>
+            </geodetic>
+        </horizsys>
+    </spref>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>U.S. Geological Survey, National Geospatial Technical Operations
+						Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1400 Independence Road</address>
+                    <city>Rolla</city>
+                    <state>MO</state>
+                    <postal>65401</postal>
+                </cntaddr>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Box 25046 Denver Federal Center</address>
+                    <city>Lakewood</city>
+                    <state>CO</state>
+                    <postal>80225</postal>
+                </cntaddr>
+                <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+                <cntemail>http://www.usgs.gov/ask/</cntemail>
+                <hours>Monday through Friday 8:00 AM to 4:00 PM</hours>
+                <cntinst>Metadata information can also be obtained through online services using The
+					National Map Viewer, at http://nationalmap.usgs.gov or EarthExplorer, at
+					http://earthexplorer.usgs.gov or Ask USGS at http://www.usgs.gov/ask.</cntinst>
+            </cntinfo>
+        </distrib>
+        <resdesc>Downloadable Data</resdesc>
+        <distliab>No liability for content or accuracy is presumed by USGS for data.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Open Geospatial Consortium GeoPackage</formname>
+                    <formvern>1.2</formvern>
+                    <formcont>Spatial objects with unique identifiers and coordinate
+						data.</formcont>
+                    <filedec>ZIP lossless data compression has been applied using a DEFLATE algorithm.</filedec>
+                    <transize>5.27</transize>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>https://prd-tnm.s3.amazonaws.com/StagedProducts/Struct/GPKG/STRUCT_Pennsylvania_State_GPKG.zip</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>None</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20221115</metd>
+        <metrd>20180806</metrd>
+        <metfrd>20190806</metfrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>U.S. Geological Survey, National Geospatial Technical Operations
+						Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1400 Independence Road</address>
+                    <city>Rolla</city>
+                    <state>MO</state>
+                    <postal>65401</postal>
+                </cntaddr>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Box 25046 Denver Federal Center</address>
+                    <city>Lakewood</city>
+                    <state>CO</state>
+                    <postal>80225</postal>
+                </cntaddr>
+                <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+                <cntemail>http://www.usgs.gov/ask/</cntemail>
+                <hours>Monday through Friday 8:00 AM to 4:00 PM</hours>
+                <cntinst>Metadata information can also be obtained through online services using The
+					National Map Viewer, at http://nationalmap.usgs.gov or EarthExplorer, at
+					http://earthexplorer.usgs.gov or Ask USGS at http://www.usgs.gov/ask.</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+    </metainfo>
+</metadata>
